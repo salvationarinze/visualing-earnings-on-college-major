@@ -1,4 +1,4 @@
-# visualing-earnings-on-college-major
+# Visualing Earnings on College Majors
 This is a project carried out during my Data Analysis course on DataQuest
 
 I worked with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by American Community Survey, which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their Github repo.
